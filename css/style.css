@@ -1,8 +1,8 @@
 /********** Template CSS **********/
 :root {
-    --primary: #2EB872;
-    --light: #F3F4F5;
-    --dark: #282F34;
+    --primary: #F69016;
+    --light: #EAE0D6;
+    --dark: #432f19;
 }
 
 .back-to-top {
@@ -483,7 +483,7 @@
 
 .testimonial-carousel .owl-item.center .testimonial-item img {
     border-color: var(--primary) !important;
-} 
+}
 
 .testimonial-carousel .owl-nav {
     position: absolute;
